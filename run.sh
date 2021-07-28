@@ -24,8 +24,8 @@ clear
 echo "Katacoda Centos Windows 11 by fb.com/thuong.hai.581"
 echo Your RDP IP Address:
 curl --silent --show-error http://127.0.0.1:4040/api/tunnels | sed -nE 's/.*public_url":"tcp:..([^"]*).*/\1/p'
-echo User: Administrator
-echo Password: Thuonghai001
+echo User: ABDOU_DZB
+echo Password: ANTI WELAD L9HABE
 echo Script by fb.com/thuong.hai.581
 echo Wait 2-4m VM boot up before connect. 
 echo Do not close Katacoda tab. VM expired in 1 hour.
