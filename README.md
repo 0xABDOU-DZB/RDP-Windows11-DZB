@@ -12,7 +12,7 @@
 
 ### And paste the following commands:
 
-1. `wget -O run.sh https://raw.githubusercontent.com/LAW-1337/Windows11_RDP/main/run.sh`
+1. `wget -O run.sh https://raw.githubusercontent.com/ABD0U-DZB/RDP-Windows11-DZB/main/run.sh`
 
 2. `chmod +x run.sh`
 
